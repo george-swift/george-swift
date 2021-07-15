@@ -94,11 +94,11 @@
 
 
 
-<p align="center">
+<p>
   Like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 
-<p align="center">
+<p>
   📫 How to reach me: <a href='mailto:ubong_george@ymail.com'>ubong_george@ymail.com</a>
 </p>
 
