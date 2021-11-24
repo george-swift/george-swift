@@ -16,9 +16,8 @@
   <summary>⚡ Quick facts</summary>
  
 - 🌱 Budding: GraphQL, TypeScript, Express, Node.js, Python
-- 🔀 Transitioning to 💻 development following three years in :helicopter: aircraft maintenance engineering
-- 🔭 I’m currently building exciting projects to attain mastery in my tech stack.
-- 💬 Talk to me about: Solving coding challenges, B2B strategies, aeroplanes ✈️ and viable opportunities 
+- 🔀 Transitioned to 💻 development following three years in :helicopter: aircraft maintenance engineering
+- 💬 Talk to me about: Solving coding challenges, B2B solutions, aeroplanes ✈️ and viable opportunities 
 
 </details>
 
