@@ -8,6 +8,7 @@
 </h2>
 
 <p>
+   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=george-swift&show_icons=true&count_private=true&theme=calm" width="412"></a>   <br>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-swift&exclude_repo=exercise-hello-world,project-three-using-bootstrap,project-week-one,product-landing-page,training-contact-form&layout=compact&theme=calm" height="194"></a>
 </p>
 
