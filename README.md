@@ -8,16 +8,15 @@
 </h2>
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=george-swift&show_icons=true&count_private=true&theme=calm" width="412"></a><br>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-swift&exclude_repo=exercise-hello-world,project-three-using-bootstrap,project-week-one,product-landing-page,training-contact-form&layout=compact&theme=calm" height="194"></a>
 </p>
 
 <details>
   <summary>⚡ Quick facts</summary>
  
-- 🌱 Budding: GraphQL, TypeScript, Express, Node.js, Python
-- 🔀 Transitioned to 💻 development following three years in :helicopter: aircraft maintenance engineering
-- 💬 Talk to me about: Solving coding challenges, B2B solutions, aeroplanes ✈️ and viable opportunities 
+- 🌱 Budding: Node.js, Express, GraphQL
+- 🔀 Background: Aircraft engineer at the leading provider of global vertical flight :helicopter: solutions before pivoting 💻
+- 💬 Talk to me about: Startups, coding challenges and aeroplanes ✈️
 
 </details>
 
@@ -44,6 +43,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
   </a>
+    <a href="https://www.typescriptlang.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55"/>
+  </a>
   <a href="https://babeljs.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" alt="babel" width="55" height="55"/>
   </a>
@@ -52,15 +54,15 @@
   </a>
   <a href="https://webpack.js.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original.svg" alt="webpack" width="55" height="55"/></a>
+  <br>
   <a href="https://www.npmjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="55" height="55"/>
   </a>
-   <br>
    <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="55" height="55"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="react" width="55" height="55"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="react" width="55" height="55"/>
   </a>
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="55" height="55"/>
@@ -71,23 +73,20 @@
   <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="55" height="55"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="aws" width="55" height="55"/>
-  </a>
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
   </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="55" height="55"/>
+  </a>
   <a href="https://heroku.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="55" height="55"/>
   </a>
   <a href="https://www.netlify.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="55" height="55"/>
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="55" height="55"/>
   </a>
 </h3><br>
 
