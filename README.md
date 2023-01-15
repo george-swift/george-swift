@@ -1,25 +1,6 @@
 
 
-<h2>
-  Hi there 👨🏽‍💻
-  <a href="https://www.linkedin.com/in/ubong-itok" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="25" height="25"/>
-  </a>
-</h2>
-
-<p>
-   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=george-swift&show_icons=true&count_private=true&theme=calm" width="412"></a>   <br>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-swift&exclude_repo=exercise-hello-world,project-three-using-bootstrap,project-week-one,product-landing-page,training-contact-form&layout=compact&theme=calm" height="194"></a>
-</p>
-
-<details>
-  <summary>⚡ Quick facts</summary>
- 
-- 🌱 Budding: Node.js, Express, GraphQL
-- 🔀 Background: Aircraft engineer at the leading provider of global vertical flight :helicopter: solutions before pivoting 💻
-- 💬 Talk to me about: Startups, coding challenges and aeroplanes ✈️
-
-</details>
+<h2>Hi there 👨🏽‍💻</h2>
 
 <h3>
   <b>💻&nbsp; Languages and Tools</b><br/><br/>
@@ -32,8 +13,11 @@
   <a href="https://sass-lang.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="55" height="55"/>
   </a>
-  <a href="https://getbootstrap.com/" target="_blank">
+  <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="55" height="55"/>
+  </a>
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="bootstrap" width="55" height="55"/>
   </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="55" height="55"/>
@@ -54,13 +38,17 @@
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="55" height="55"/>
   </a>
   <a href="https://webpack.js.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original.svg" alt="webpack" width="55" height="55"/></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original.svg" alt="webpack" width="55" height="55"/>
+  </a>
   <br>
   <a href="https://www.npmjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="55" height="55"/>
   </a>
    <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="55" height="55"/>
+  </a>
+  <a href="https://storybook.js.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="babel" width="55" height="55"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="react" width="55" height="55"/>
@@ -90,6 +78,15 @@
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="55" height="55"/>
   </a>
 </h3><br>
+
+<details>
+  <summary>⚡ Quick facts</summary>
+ 
+- 🌱 Budding: Node.js, Express, GraphQL
+- 🔀 Background: Aircraft engineer at the leading provider of global vertical flight :helicopter: solutions before pivoting 💻
+- 💬 Talk to me about: Startups, coding challenges and aeroplanes ✈️
+
+</details>
 
 
 
