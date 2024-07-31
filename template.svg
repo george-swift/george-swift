@@ -341,6 +341,6 @@
   <!-- Have a great day... -->
   <g transform="translate(10, 315)" class="msg-6">
     <rect width="200" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Have a great day! <tspan class="emoji">👋🏽</tspan></text>  
+    <text x="15" y="27">Have a great day! <tspan class="emoji">👋</tspan></text>  
   </g>
 </svg>
