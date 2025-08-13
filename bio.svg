@@ -237,9 +237,9 @@
 
   <!-- Skill... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="515" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I build secure, scalable web and mobile apps with buttery-</text>
-    <text x="15" y="50">smooth user experiences that drive business success.</text>
+    <rect width="480" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I specialize in creating solutions that prioritize usability,</text>
+    <text x="15" y="50">performance and security from concept to launch.</text>
   </g>
 
   <!-- ellipsis 3 -->
