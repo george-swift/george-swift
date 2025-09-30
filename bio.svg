@@ -237,9 +237,9 @@
 
   <!-- Skill... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="480" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I specialize in creating solutions that prioritize usability,</text>
-    <text x="15" y="50">performance and security from concept to launch.</text>
+    <rect width="530" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I blend thoughtful design with robust engineering to build</text>
+    <text x="15" y="50">products that look great, feel effortless, and perform at scale.</text>
   </g>
 
   <!-- ellipsis 3 -->
